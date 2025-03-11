@@ -55,3 +55,10 @@ to 300000 prompts to train the model
 
 you can install this model on your local machine the only catch if you want to deploy this on a cloud service you should have a cuda support cloud service which we found a very complicated 
 and hard thing to find 
+
+# Contributors
+[Omer Tarek](https://github.com/omartarek000)
+[Ahmed Ashraf](https://github.com/Ashraf1625)
+[Nassar Mohamed](https://github.com/NaMN21)
+[Belall Omar]()
+[Ali Arabi](https://github.com/AliArabi55/AliArabi55)
